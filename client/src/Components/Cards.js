@@ -5,9 +5,7 @@ import Navbar from "./Header";
 function Cards(){
     return(
         <div class="mybg">
-            <Navbar />
-            
-            <div className="flex gap-8 justify-center h-screen">
+            <div className="flex gap-8 justify-center py-16">
                 <div className="mycard flex flex-col justify-center items-center bg-white gap-5">
                     <img className="h-20 object-center" src="./images/pic1.png"></img>
                     <h1 className="font-bold">Budget</h1>
@@ -29,7 +27,6 @@ function Cards(){
                     <h4 className="w-32 text-center">Optimize corporate travel with our itinerary platform.</h4>
                 </div>
             </div>
-            <Footer />
         </div>  
     )
 }
