@@ -8,6 +8,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: ;
 }
 *{
   font-family: "Poppins";
@@ -18,6 +19,7 @@ code {
     monospace;
 }
 
+/* Login Page */
 
 .App {
   text-align: center;
@@ -56,4 +58,15 @@ code {
   to {
     transform: rotate(360deg);
   }
+}
+
+/* Navbar */
+
+.mybtn{
+  background-color: #23C6BB;
+}
+
+.mybtn:hover{
+  transform: scale(1.02);
+  opacity: 80%;
 }
