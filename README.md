@@ -1,4 +1,7 @@
-# Squid-Games-Hack
+# Virtugo
+
+## Figma Link
+https://www.figma.com/design/SuDy1muPSI0urA4c2luKHF/ISTE-Internal-Hackathon?node-id=0-1&t=iAsFQJKEXCqJdnpD-1
 
 
 ## Inspiration
